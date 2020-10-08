@@ -1,0 +1,17 @@
+{
+    "name": "OtikSandath/schema",
+    "description": "",
+    "keywords": [
+        "schema-org"
+    ],
+    "homepage": "https://github.com/OtikSandath/schema",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "OtikSandath\\Schema\\": "src"
+        }
+    }
+}
